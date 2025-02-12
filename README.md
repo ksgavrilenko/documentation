@@ -1,4 +1,5 @@
 Тестовая документация
+В процессе тестирования приложения "Интернет магазин", мною была разработана тестовая документация:
 [Тест-плана для приложения "Интернет-магазин"](https://docs.google.com/spreadsheets/d/1EAzVzp4F0-DNgJa8QtINGTcGA-2nW6AoogQtTEqkehQ/edit?usp=sharing)
 [Чек-лист для приложения "Интернет-магазин"](https://docs.google.com/spreadsheets/d/1MGWqRnsG-9vFRFgfmMozSkgxL622RF1eiXxjLSk2KX8/edit?usp=sharing)
 [Тест-кейсы для регистрации, авторизации и каталога](https://github.com/ksgavrilenko/-documentation/commit/88577597ff3d236c6613d80b0f9b4f852c0171d5)
